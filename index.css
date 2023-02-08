@@ -10,3 +10,23 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+
+#jordans-2{
+    border: solid red;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.3);
+    margin: 100px 375px 50px 500px;
+}
+#row2-section2{
+    border: solid green;
+    background-color: rgb(251, 64, 64);
+    color: white;
+    margin: 100px 375px 100px 600px;
+}
+/*
+text-align: center;
+width: 500px;
+justify-content: center;
+margin: 100px 375px 50px 375px;
+padding:15px
+*/
