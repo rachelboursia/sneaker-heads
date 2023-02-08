@@ -1,24 +1,9 @@
-/* Write Your CSS Below 
-Colors: 
-- rgb(243, 183, 106)
-- yellow
-- rgb(241, 117, 0)
-- red
-- rgb(13, 110, 0)
-- rgb(109, 0, 251)
-- rgb(219, 255, 57)
-- rgb(116, 201, 241)
-- rgb(251, 64, 64)
+/* Write Your CSS Below */
 
-Sizes: 
-- 100%
-- 70%
-- auto
-- 1.5em
-- 3rem
-- .5em
+h1{text-shadow: 4px 4px 6px yellow; color:rgb(109, 0, 251);background-image:linear-gradient(rgb(116, 201, 241),rgb(251, 64, 64));border-radius: .40em;text-align: center;width: 500px;justify-content: center;margin: 100px 375px 50px 375px;padding:15px}
+body{background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");background-size: cover;}
 
-Font: 
+/*Font: 
 - Copperplate (You can also use any font that you'd like!)
 
 Images: 
