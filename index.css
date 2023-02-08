@@ -2,8 +2,8 @@
 
 h1{text-shadow: 4px 4px 6px yellow; color:rgb(109, 0, 251);background-image:linear-gradient(rgb(116, 201, 241),rgb(251, 64, 64));border-radius: .40em;text-align: center;width: 850px;justify-content: center;margin: 25px 375px 25px 375px;padding:20px}
 body{background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");background-size: cover;}
-#jordan-1{box-shadow: blue 2px 2px 5px;}
-#row1-section2{}
+#jordans-1{box-shadow: blue 10x 10x 5px;margin: 0px 375px;}
+#row1-section2{position: ;}
 #jordans-1-desc{}
 /*Font: 
 - Copperplate (You can also use any font that you'd like!)
